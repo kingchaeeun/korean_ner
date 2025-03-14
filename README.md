@@ -1,4 +1,5 @@
 아래 링크에서 pytorch_model.bin을 다운받아 ./model에 저장
+.
 https://drive.google.com/file/d/14qiN7zkTiTiLQR54PrCLiFANm3eaRJ9N/view?usp=sharing
 
 ---
